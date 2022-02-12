@@ -11,9 +11,9 @@ setuptools.setup(
     description="A package created to deploy your machine learning code as API in few lines of code.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Zackriya-Solutions/qpi",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/Zackriya-Solutions/qpi/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
