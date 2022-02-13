@@ -1,4 +1,7 @@
 '''
+Authors : Zackriya Solutions
+Year    : 2022
+Version : V 0.0.1
 The main classes and functions for QPI Rest
 '''
 class Qpi:
