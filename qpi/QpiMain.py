@@ -19,5 +19,8 @@ class Qpi:
         self.sum = self.summer(self.a, self.b)
     
     def summer(a, b):
+        '''
+        Sample function
+        '''
         sum = a + b
         return sum
