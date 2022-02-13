@@ -1,3 +1,6 @@
+'''
+The main classes and functions for QPI Rest
+'''
 class Qpi:
     
     def __init__(self, a, b) -> None:
