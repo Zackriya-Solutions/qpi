@@ -9,3 +9,8 @@ This project is to make it easier for developers to deploy REST APIs faster for 
 ## Install
 
 ``` $ pip3 install qpi ```
+
+
+## Usage
+
+``` $ py -m qpi --model model.ext --label label.txt --port 8000 --host false```
