@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="qpi",
-    version="0.0.1",
+    version="0.0.11",
     author="Zackriya Solutions",
     author_email="sujith@zackriya.com",
     description="A package created to deploy your machine learning code as API in few lines of code.",
